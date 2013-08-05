@@ -1,4 +1,7 @@
-js-3d-particlesphere
-====================
+An 3D Particle Sphere Expirement
+================================
 
-An 3D Sphere created in a canvas
+This was an expimeriment how to draw 3D stuff. Feel free to edit and use this code :-)
+
+
+If you would like to support me, please make a little donation http://www.kevinvdburgt.com/donate
